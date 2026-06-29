@@ -42,24 +42,15 @@ An interactive visualization covering:
 
 ---
 
-## 🚀 Roadmap
+## 🚀 Completed Stimulations
 
-Future interactive modules include:
+ interactive modules include:
 
-- DNA Replication
-- RNA Polymerase II
-- RNA Polymerase III
-- Translation
+- DNA Visualizer 
 - Lac Operon
-- Human Genome Project
-- Gene Regulation
-- Biotechnology
 - Evolution
-- Cell Cycle
+- Pedigree mapper
 - Meiosis
-- Mitosis
-- Photosynthesis
-- Respiration
 
 ---
 
@@ -113,15 +104,19 @@ If you'd like to improve biological accuracy, optimize animations, fix bugs, or 
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 License.
 
 ---
 
 ## 🙏 Acknowledgements
+- Although the script,idea & visual designing were mine, 
+I want to express my gratitude to 
+-Open AI for Debugging (Idea Improvisation)
+-Gemini for Filler ideas 
+-Claude for execution
 
 Inspired by:
 
-- Nature Reviews Molecular Biology
 - BioRender scientific illustration principles
 - NCERT Biology (Class XI & XII)
 - Open-source scientific visualization community

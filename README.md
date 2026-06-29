@@ -111,8 +111,11 @@ This project is licensed under the GPL-3.0 License.
 ## 🙏 Acknowledgements
 - Although the script,idea & visual designing were mine, 
 I want to express my gratitude to 
+
 -Open AI for Debugging (Idea Improvisation)
+
 -Gemini for Filler ideas 
+
 -Claude for execution
 
 Inspired by:

@@ -1,12 +1,22 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Draven-Ashcroft/Karyon/main/assets/repo-banner.png" alt="Karyon Banner">
+  <img src="assets/repo-banner.png" alt="Karyon Banner" width="100%">
 </p>
 
 # 🧬 Karyon
 
-> **Interactive Molecular Biology Visualizations built with HTML5 Canvas**
+<p align="center">
 
-Karyon is an open-source collection of scientifically accurate molecular biology visualizations designed for education, scientific communication, and interactive learning. Inspired by modern scientific illustration, Karyon brings complex biological processes to life directly in the browser.
+### Interactive Molecular Biology Visualizations
+
+Scientific visualization library built with HTML5 Canvas for biology education, communication, and interactive learning.
+
+</p>
+
+---
+
+## 📖 Overview
+
+**Karyon** is an open-source molecular biology visualization library. Its current module demonstrates **RNA Polymerase I transcription of rDNA in the nucleolus**, from pre-rRNA synthesis to ribosomal subunit assembly and nuclear export.
 
 ---
 
@@ -15,74 +25,47 @@ Karyon is an open-source collection of scientifically accurate molecular biology
 - 🧬 Scientifically accurate visualizations
 - 🎥 Interactive HTML5 Canvas animations
 - ⚡ Smooth transitions and animations
-- 📚 NCERT Biology aligned
-- 🌐 Browser-based (no dependencies)
-- 📱 Responsive and mobile-friendly
-- 🎓 Built for educators, students, and science enthusiasts
+- 🌐 Browser-based with no dependencies
+- 📱 Responsive design
+- 🎓 Built for education and science communication
 
 ---
 
-## 🚀 Current Modules
+## 📜 License
 
-- DNA Visualizer
-- Eukaryotic Transcription (RNA Polymerase I)
-- Lac Operon
-- Meiosis
-- Evolution
-- Pedigree Mapper
-
-More modules are actively under development.
+GNU General Public License v3.0 (GPL-3.0)
 
 ---
 
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- HTML5 Canvas API
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an Issue or submit a Pull Request to improve biological accuracy, performance, or educational content.
-
----
-
-## 📄 License
-
-Licensed under the **GNU GPL v3.0 License**.
-
----
-
-## 👨‍🔬 Author
+## 👨‍🏫 Author
 
 **Draven Ashcroft**
 
-*M.Sc. Agricultural Entomology*  
-*ASRB–NET Qualified*  
-*DIPS Chain of Institutions, Tanda*
+**M.Sc. Agricultural Entomology**  
+**ASRB–NET Qualified**  
+**DIPS Chain of Institutions, Tanda**
 
 ---
 
 ## 🙏 Acknowledgements
 
-Special thanks to **OpenAI (ChatGPT)**, **Google Gemini**, and **Anthropic Claude** for accelerating development through technical assistance, debugging, and brainstorming.
+Developed with assistance from modern AI tools.
+
+Special thanks to:
+
+- **OpenAI (ChatGPT)** — scientific review, debugging, and implementation
+- **Anthropic Claude** — implementation assistance and optimization
+- **Google Gemini** — concept exploration and refinement
+- **Moonshot AI** — debugging and prototype refinement
+- **DeepSeek** — early drafts and experimentation
 
 Inspired by **BioRender**, **Nature Reviews Molecular Biology**, and **NCERT Biology**.
 
 ---
 
-## ⭐ Support
-
-If you find Karyon useful, consider giving the repository a ⭐ on GitHub.
-
----
-
 <p align="center">
 
-# 🧬 Karyon
+## 🧬 Karyon
 
 ### *Initiating the Code of Life.*
 

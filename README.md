@@ -1,31 +1,33 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Draven-Ashcroft/Karyon/main/assets/repo-banner.png" alt="Karyon Repository Banner">
-</p>🧬 Karyon
+  <img src="https://raw.githubusercontent.com/Draven-Ashcroft/Karyon/main/assets/repo-banner.png" alt="Karyon Banner">
+</p>
 
-«Interactive Molecular Biology Visualizations built with HTML5 Canvas»
+# 🧬 Karyon
 
-Karyon is an open-source collection of scientifically accurate, interactive molecular biology visualizations designed for teaching, learning, and scientific communication. Inspired by BioRender, Nature Reviews Molecular Biology, and modern scientific visualization principles, Karyon transforms complex biological processes into smooth, interactive experiences directly in the browser.
+> **Interactive Molecular Biology Visualizations built with HTML5 Canvas**
+
+Karyon is an open-source collection of scientifically accurate, interactive molecular biology visualizations for teaching, learning, and scientific communication. Inspired by **BioRender**, **Nature Reviews Molecular Biology**, and modern scientific illustration principles, Karyon transforms complex biological processes into smooth, browser-based interactive experiences.
 
 ---
 
-✨ Features
+## ✨ Features
 
-- 🎥 Interactive HTML5 Canvas visualizations
+- 🎥 Interactive HTML5 Canvas animations
 - 🧬 Publication-inspired molecular biology illustrations
-- ⚡ Smooth animations with zoom and camera transitions
+- ⚡ Smooth camera transitions and animations
 - 🧫 Scientifically accurate organelle representations
 - 📚 NCERT Class XI & XII Biology aligned
-- 🌐 Runs entirely in the browser (no external dependencies)
+- 🌐 Runs entirely in the browser
 - 📱 Responsive and mobile-friendly
 - 🎓 Designed for educators, students, and science communicators
 
 ---
 
-📖 Featured Module
+## 📖 Featured Module
 
-Eukaryotic Transcription — RNA Polymerase I
+### Eukaryotic Transcription — RNA Polymerase I
 
-An interactive visualization covering:
+Includes interactive visualization of:
 
 - RNA Polymerase I
 - Nucleolus
@@ -35,12 +37,12 @@ An interactive visualization covering:
 - Ribosomal protein import
 - 40S & 60S ribosomal subunit assembly
 - Nuclear export
-- Brownian motion of exported ribosomal subunits
+- Brownian motion of ribosomal subunits
 - Transition toward translation
 
 ---
 
-🚀 Current Modules
+## 🚀 Current Modules
 
 - 🧬 DNA Visualizer
 - 🧫 Eukaryotic Transcription — RNA Polymerase I
@@ -49,88 +51,70 @@ An interactive visualization covering:
 - 🌳 Evolution
 - 👨‍👩‍👧‍👦 Pedigree Mapper
 
-More interactive molecular biology modules are under active development.
+More interactive biology modules are under active development.
 
 ---
 
-🛠️ Built With
+## 🛠️ Built With
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 - HTML5 Canvas API
 
-No external libraries are required.
+No external libraries or frameworks required.
 
 ---
 
-🎯 Project Goals
+## 🎯 Vision
 
-- Make molecular biology intuitive through interactive visualization.
-- Maintain scientific accuracy with publication-quality visuals.
-- Create reusable educational resources for classrooms and self-learning.
-- Advance open-source scientific communication.
+Karyon aims to make molecular biology intuitive through scientifically accurate, interactive visualizations while providing high-quality open educational resources for classrooms, educators, and self-learners.
 
 ---
 
-📸 Preview
+## 🤝 Contributing
 
-Additional screenshots, animations, and GIFs will be added as new modules are released.
+Contributions are welcome.
 
----
-
-📂 Repository Structure
-
-.
-├── assets/
-│   └── repo-banner.png
-├── css/
-├── images/
-├── js/
-├── index.html
-└── README.md
+Whether you're improving biological accuracy, optimizing animations, fixing bugs, or adding new educational modules, feel free to open an Issue or submit a Pull Request.
 
 ---
 
-🤝 Contributing
+## 📄 License
 
-Contributions are welcome!
-
-Whether you're improving biological accuracy, optimizing animations, fixing bugs, enhancing the UI, or adding new educational modules, feel free to open an Issue or submit a Pull Request.
+Licensed under the **GNU GPL v3.0 License**.
 
 ---
 
-📄 License
-
-This project is licensed under the GNU GPL v3.0 License.
-
----
-
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 Karyon is an independent open-source project. While the concept, scientific design, and visual direction were created by the project author, modern AI tools significantly accelerated development.
 
 Special thanks to:
 
-- OpenAI (ChatGPT) — debugging, technical guidance, and idea refinement
-- Google Gemini — brainstorming and content exploration
-- Anthropic Claude — implementation assistance and code refinement
+- **OpenAI (ChatGPT)** — technical guidance, debugging, and idea refinement
+- **Google Gemini** — brainstorming and content exploration
+- **Anthropic Claude** — implementation assistance and code refinement
 
 Inspired by:
 
 - BioRender scientific illustration principles
-- NCERT Biology (Class XI & XII)
 - Nature Reviews Molecular Biology
+- NCERT Biology (Class XI & XII)
 - The open-source scientific visualization community
 
 ---
 
-⭐ Support
+## ⭐ Support
 
-If you find Karyon useful, consider giving the repository a ⭐ on GitHub.
+If Karyon helps you, consider giving the repository a ⭐ on GitHub.
 
-Your support helps improve the project and makes it easier for others to discover.
+Your support helps the project grow and reach more educators, students, and researchers.
 
 ---
+
+<p align="center">
+
+### **Karyon — Interactive Molecular Biology Visualizations**
 
 </p>

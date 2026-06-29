@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Draven-Ashcroft/Karyon/main/assets/repo-banner.png" alt="Karyon Banner">
+</p>
+
 # 🧬 Karyon
 
 > **Interactive Molecular Biology Visualizations built with HTML5 Canvas**
